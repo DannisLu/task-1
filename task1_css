@@ -1,0 +1,25 @@
+ * {
+  	  	margin: 0 auto;
+  	  	padding: 0 auto;
+  	  } 
+  	  html {
+  	  	display: block;
+  	  }
+  	  body {
+  	  	font-size: 62.5%;
+  	  }
+  	  .container {
+  	  	margin: 0 auto;
+  	  	max-width: 28rem;
+  	  	width: 100%;
+  	  	max-height: 28rem;
+  	  	height: 100%
+  	  }
+  	  .container div {
+  	  	margin: 1%;
+  	  	background-color: #FF8C00;
+  	  	width: 7rem;
+  	  	height: 7rem;
+  	  	float: left;
+  	  	border-radius: 10%;
+  	  }
